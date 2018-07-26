@@ -1,0 +1,57 @@
+.opponent .tile {
+	
+	background-color: #FF0000;
+}
+
+.self .tile{
+	
+	background-color: #4CAF50;
+}
+
+
+.setboard{
+	display: none;
+}
+
+.tile{
+	width: 80px;
+	height: 80px;
+	font-size: 60px;
+	font-family: Helvetica;
+}
+
+.tile{
+	width: 80px;
+	height: 80px;
+	font-size: 60px;
+	font-family: Helvetica;
+}
+
+.gameBoard{
+	display: none;
+}
+
+.center{
+	margin: 0 auto;
+}
+
+.newroom{
+	display: none;
+}
+
+.joinroom{
+	display: none;
+}
+
+.top{
+	background-color: : #FF0000 ;
+
+}
+
+.bottom{
+	background-color: : #4CAF50 ;	
+}
+
+.top .menudropdown{
+	visibility: hidden;
+}
